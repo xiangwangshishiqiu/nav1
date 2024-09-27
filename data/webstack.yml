@@ -3,10 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: Bilibili
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
+      url: https://space.bilibili.com/651397929?spm_id_from=333.1007.0.0
+      description: 向往事逝去的B站频道！
     - title: 资源博客
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
