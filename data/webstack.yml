@@ -8,8 +8,7 @@
       url: https://space.bilibili.com/651397929?spm_id_from=333.1007.0.0
       description: 向往事逝去的B站频道！
     - title: 草料二维码生成器
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      logo:
       url: https://cli.im/
       description: 二维码生成器
     - title: 环球巴士
@@ -35,7 +34,7 @@
       description: Lianjie的博客
     - title: CSDN
       url: https://blog.csdn.net/abc885357?spm=1011.2419.3001.5343
-      description: 资源分享，技术交流
+      description: Lianjie的CSDN,资源分享，技术交流
     - title: 接码平台
       logo:  
       url: https://sms-activate.org/?ref=4312619/
