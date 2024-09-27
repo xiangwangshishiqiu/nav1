@@ -8,7 +8,8 @@
       url: https://space.bilibili.com/651397929?spm_id_from=333.1007.0.0
       description: 向往事逝去的B站频道！
     - title: 草料二维码生成器
-      logo:
+      logo:imgges/logos/
+      qrcode:
       url: https://cli.im/
       description: 二维码生成器
     - title: 环球巴士
