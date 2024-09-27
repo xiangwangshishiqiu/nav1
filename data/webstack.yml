@@ -7,11 +7,11 @@
       logo: 
       url: https://space.bilibili.com/651397929?spm_id_from=333.1007.0.0
       description: 向往事逝去的B站频道！
-    - title: 资源博客
+    - title: 草料二维码生成器
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
+      url: https://cli.im/
+      description: 二维码生成器
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
